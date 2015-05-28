@@ -1,7 +1,7 @@
 {
-  "name": "Imdb Rating",
+  "name": "imdb-rating",
   "version": "0.0.0",
-  "description": "Get the imbd rating for any movie/tv series etc. form terminal",
+  "description": "Get the imbd rating for any movie/tv series etc. from terminal",
   "author": {
     "name": "Naman Kalkhuria",
     "email": "naman.kalkh@gmail.com"
@@ -21,6 +21,6 @@
     "rating"
   ],
   "dependencies": {
-    "got": "^3.2.0",
+    "got": "^3.2.0"
   }
 }
