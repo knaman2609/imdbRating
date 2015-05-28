@@ -1,0 +1,26 @@
+{
+  "name": "Imdb Rating",
+  "version": "0.0.0",
+  "description": "Get the imbd rating for any movie/tv series etc. form terminal",
+  "author": {
+    "name": "Naman Kalkhuria",
+    "email": "naman.kalkh@gmail.com"
+  },
+  "bin": "cli.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "files": [
+    "index.js",
+    "cli.js"
+  ],
+  "keywords": [
+    "cli-app",
+    "cli",
+    "review",
+    "rating"
+  ],
+  "dependencies": {
+    "got": "^3.2.0",
+  }
+}
